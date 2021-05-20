@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning tailwind css & react (Next.js)
 - ⚡ Excited to create open-source projects
 - 😄 I'm natively speak Indonesian
-- 📫 You can reach me at my instagram @tubagusgf
+- 📫 You can reach me at my instagram [@tubagusgf](https://www.instagram.com/tubagusgf/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans292&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
