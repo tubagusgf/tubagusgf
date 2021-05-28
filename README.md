@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tubagusgf)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on freelancer job as front end dev
-- 🌱 I’m currently learning tailwind css & react (Next.js)
+- 🌱 I’m currently learning laravel rest api & vue
 - ⚡ Excited to create open-source projects
 - 😄 I'm natively speak Indonesian
 - 📫 You can reach me at my instagram [@tubagusgf](https://www.instagram.com/tubagusgf/)
